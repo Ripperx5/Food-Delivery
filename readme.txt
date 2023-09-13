@@ -22,7 +22,6 @@ FIRST Download
 
 7.Run the script http://localhost/Online-Food-Order
 
-admin: Aditi Naik/ aditi   
-user: birju/ Birju123@
+admin: Sipun    
+user: sipun/ sipun2311@
 
-Subcribe my channel thank You,,,,
